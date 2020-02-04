@@ -1,4 +1,4 @@
-# Interfaz-Cinevivo-1
+# Interfaz-Cinevivo
 Interfaz creada en Purr-Data para el manejo de Cinevivo a través de mensajes OSC
 
 Purr-Data interface to control Cinevivo software through OSC messages
