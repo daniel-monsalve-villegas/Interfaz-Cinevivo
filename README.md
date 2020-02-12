@@ -51,6 +51,9 @@ scale = Scale layer on screen
 rot X-Y-Z = Rota la capa seleccionada en X, Y y Z
 rot X-Y-Z = Rotation of layer in X, Y & Z
 
+points = Permite mappear la capa seleccionada utilizando X y Y desde los vértices de la pantalla
+points = Mapping tool using X & Y vertex on screen
+
 filter 0-1-2 = Activa y desactiva los filtros para la capa seleccionada
 filter 0-1-2 = Enable & Disable filter to layer
 
@@ -60,6 +63,14 @@ filterMode = Choose filter
 feedback 0-1-2 = Activa y desactiva el filtro Feedback en la capa seleccionada
 feddback 0-1-2 = Enable & Disable Feedback filter
 
+blend = Mezcla 2 capas activas en una nueva capa
+blend = Mix 2 actives layers into a new layer
+
+blur = Realiza desenfoque central de la capa seleccionada
+blur = Applies gaussian blur to layer
+
 metro = Modifica la opción seleccionada para sincronizarse con el beat deseado
 metro = Set any option to sync with wanted beat
+
+
 
